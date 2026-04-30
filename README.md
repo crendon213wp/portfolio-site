@@ -197,35 +197,35 @@ project-root/
 ├─ .nvmrc
 │
 ├─ src/
-│  ├─ pages/
-│  │  ├─ index.html
-│  │  ├─ about.html
-│  │  ├─ projects.html
-│  │  ├─ skills.html
-│  │  └─ contact.html
-│  │
-│  ├─ partials/
-│  │  ├─ head.html
-│  │  ├─ navbar.html
-│  │  └─ footer.html
-│  │
-│  ├─ scss/
-│  │  └─ application.scss
-│  │
-│  ├─ js/
-│  │  └─ app.js
-│  │
-│  └─ images/
+│ ├─ pages/
+│ │ ├─ index.html
+│ │ ├─ about.html
+│ │ ├─ projects.html
+│ │ ├─ skills.html
+│ │ └─ contact.html
+│ │
+│ ├─ partials/
+│ │ ├─ head.html
+│ │ ├─ navbar.html
+│ │ └─ footer.html
+│ │
+│ ├─ scss/
+│ │ └─ application.scss
+│ │
+│ ├─ js/
+│ │ └─ app.js
+│ │
+│ └─ images/
 │
 └─ dist/
-   ├─ index.html
-   ├─ about.html
-   ├─ projects.html
-   ├─ skills.html
-   ├─ contact.html
-   ├─ css/
-   ├─ js/
-   └─ images/
+├─ index.html
+├─ about.html
+├─ projects.html
+├─ skills.html
+├─ contact.html
+├─ css/
+├─ js/
+└─ images/
 
 ---
 
