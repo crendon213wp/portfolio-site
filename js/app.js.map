@@ -1,1 +1,1 @@
-{"version":3,"file":"app.js","names":["paths","src","dist"],"sources":["app.js"],"mappings":"AAAA,MAAMA,MAAQ,CACVC,IAAK,MACLC,KAAM","ignoreList":[],"sourcesContent":["const paths = {\r\n    src: 'src',\r\n    dist: 'dist'\r\n};"]}
+{"version":3,"file":"app.js","names":[],"sources":[],"mappings":"","ignoreList":[],"sourcesContent":[]}
