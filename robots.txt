@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crendon213wp.github.io/portfolio-site/sitemap.xml
+
