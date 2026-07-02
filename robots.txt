@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 
+Disallow: /portfolio-site/partials/
+
 Sitemap: https://crendon213wp.github.io/portfolio-site/sitemap.xml
 
