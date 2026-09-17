@@ -1,2 +1,2 @@
-
+document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("popupOverlay"),t=document.querySelectorAll("#closePopupBtn, #actionBtn");function n(){document.activeElement&&e.contains(document.activeElement)&&document.activeElement.blur(),e.classList.remove("show"),setTimeout(function(){e.hidden=!0,e.style.display="none"},400)}e&&(setTimeout(function(){e.hidden=!1,e.style.display="flex",requestAnimationFrame(function(){e.classList.add("show")})},3e3),t.forEach(function(e){e.addEventListener("click",n)}),e.addEventListener("click",function(t){t.target===e&&n()}))});
 //# sourceMappingURL=app.js.map
