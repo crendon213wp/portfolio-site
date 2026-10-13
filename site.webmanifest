@@ -1,0 +1,17 @@
+{
+  "name": "Cisco Rendon Portfolio",
+  "short_name": "Cisco Rendon",
+  "description": "Portfolio of Cisco Rendon, a web developer, IT specialist, and email developer.",
+  "start_url": "/portfolio-site/",
+  "scope": "/portfolio-site/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2aa9a8",
+  "icons": [
+    {
+      "src": "images/compu-favicon.png",
+      "sizes": "32x34",
+      "type": "image/png"
+    }
+  ]
+}
