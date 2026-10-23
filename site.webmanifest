@@ -1,0 +1,21 @@
+{
+  "name": "Cisco Rendon | Portfolio",
+  "short_name": "Cisco Rendon",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#111113",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
