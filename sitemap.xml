@@ -2,24 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         
-        <loc>https://example.com/about.html</loc>
+        <loc>https://crendon213wp.github.io/project-noir/about.html</loc>
     
         
-        <lastmod>2026-10-23T03:20:45.612Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>1</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://example.com/contact.html</loc>
-    
-        
-        <lastmod>2026-10-23T03:20:45.622Z</lastmod>
+        <lastmod>2026-10-26T03:54:16.209Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -30,24 +16,10 @@
     </url>
     <url>
         
-        <loc>https://example.com/</loc>
+        <loc>https://crendon213wp.github.io/project-noir/contact.html</loc>
     
         
-        <lastmod>2026-10-23T03:20:45.635Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>1</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://example.com/skills.html</loc>
-    
-        
-        <lastmod>2026-10-23T03:20:45.646Z</lastmod>
+        <lastmod>2026-10-26T03:54:16.216Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -58,10 +30,38 @@
     </url>
     <url>
         
-        <loc>https://example.com/work.html</loc>
+        <loc>https://crendon213wp.github.io/project-noir/</loc>
     
         
-        <lastmod>2026-10-23T03:20:45.646Z</lastmod>
+        <lastmod>2026-10-26T03:54:16.229Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://crendon213wp.github.io/project-noir/skills.html</loc>
+    
+        
+        <lastmod>2026-10-26T03:54:16.238Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://crendon213wp.github.io/project-noir/work.html</loc>
+    
+        
+        <lastmod>2026-10-26T03:54:16.239Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
