@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Partials are source fragments and are not public page entry points.
-Disallow: /partials/
+Disallow: /portfolio-site/partials/
 
-# Replace example.com in site.config.js before deployment.
-Sitemap: https://example.com/sitemap.xml
+# Portfolio Site — XML Sitemap
+Sitemap: https://crendon213wp.github.io/portfolio-site/sitemap.xml
