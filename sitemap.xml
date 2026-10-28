@@ -2,24 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         
-        <loc>https://crendon213wp.github.io/project-noir/about.html</loc>
+        <loc>https://crendon213wp.github.io/portfolio-site/about.html</loc>
     
         
-        <lastmod>2026-10-28T19:41:40.326Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>1</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://crendon213wp.github.io/project-noir/contact.html</loc>
-    
-        
-        <lastmod>2026-10-28T19:41:40.333Z</lastmod>
+        <lastmod>2026-10-28T22:02:45.933Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -30,24 +16,10 @@
     </url>
     <url>
         
-        <loc>https://crendon213wp.github.io/project-noir/</loc>
+        <loc>https://crendon213wp.github.io/portfolio-site/contact.html</loc>
     
         
-        <lastmod>2026-10-28T19:41:40.348Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>1</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://crendon213wp.github.io/project-noir/skills.html</loc>
-    
-        
-        <lastmod>2026-10-28T19:41:40.357Z</lastmod>
+        <lastmod>2026-10-28T22:02:45.940Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -58,10 +30,38 @@
     </url>
     <url>
         
-        <loc>https://crendon213wp.github.io/project-noir/work.html</loc>
+        <loc>https://crendon213wp.github.io/portfolio-site/</loc>
     
         
-        <lastmod>2026-10-28T19:41:40.357Z</lastmod>
+        <lastmod>2026-10-28T22:02:45.962Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://crendon213wp.github.io/portfolio-site/skills.html</loc>
+    
+        
+        <lastmod>2026-10-28T22:02:45.963Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://crendon213wp.github.io/portfolio-site/work.html</loc>
+    
+        
+        <lastmod>2026-10-28T22:02:45.964Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
